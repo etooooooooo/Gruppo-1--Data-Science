@@ -1,0 +1,18 @@
+\begin{thebibliography}{1}
+
+\bibitem{yeh2009}
+I-Cheng Yeh and Che-hui Lien.
+\newblock The comparisons of data mining techniques for the predictive accuracy of probability of default of credit card clients.
+\newblock {\em Expert Systems with Applications}, 36(2):2473--2480, 2009.
+
+\bibitem{sklearn}
+Fabian Pedregosa, Ga{\"e}l Varoquaux, Alexandre Gramfort, Vincent Michel, Bertrand Thirion, Olivier Grisel, Mathieu Blondel, Peter Prettenhofer, Ron Weiss, Vincent Dubourg, Jake Vanderplas, Alexandre Passos, David Cournapeau, Matthieu Brucher, Matthieu Perrot, and {\'E}douard Duchesnay.
+\newblock Scikit-learn: Machine learning in {Python}.
+\newblock {\em Journal of Machine Learning Research}, 12:2825--2830, 2011.
+
+\bibitem{uci}
+Dheeru Dua and Casey Graff.
+\newblock {UCI} machine learning repository --- default of credit card clients data set.
+\newblock \url{https://archive.ics.uci.edu/ml/datasets/default+of+credit+card+clients}, 2019.
+
+\end{thebibliography}
